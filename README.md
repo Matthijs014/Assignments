@@ -10,3 +10,5 @@ This repository contains my assignments
 [Assignment 5](https://github.com/Matthijs014/Assignments/blob/master/Graded_assignment1.ipynb)
 
 [Assignment 6](https://github.com/Matthijs014/Assignments/blob/master/Graded_assignment_2.ipynb)
+
+[Exam June 7 2018 Python](https://github.com/Matthijs014/Assignments/blob/master/exam_june_7_2018.ipynb)
